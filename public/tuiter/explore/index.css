@@ -140,8 +140,6 @@
   display: flex;
   position: relative;
   width: 100%;
-  top: 20px;
-  margin-bottom: 30px;
 }
 
 .list-group-item{
