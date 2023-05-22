@@ -1,0 +1,176 @@
+.wd-explore-page {
+  display: flex;
+  flex-direction: column;
+}
+
+.wd-search-bar {
+  display: flex;
+  position: relative;
+  width: 100%;
+  top: 20px;
+  left: 20px;
+}
+
+.wd-search-input {
+  background-color: lightgray;
+  height: 40px;
+  padding-left: 50px;
+  width: 100%;
+  border: none;
+  border-radius: 20px;
+  margin-right: 80px;
+}
+
+.wd-search-icon {
+  position: absolute;
+  top: 10px;
+  left: 20px; 
+  font-size: 20px;
+}
+
+.wd-settings-icon {
+  position: absolute;
+  font-size: 30px;
+  top: 0;
+  right: 30px; 
+  color: gray;
+}
+
+.wd-tabs {
+  margin-top: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  display: flex;
+  justify-content: center;
+  border-bottom: 2px solid whitesmoke; 
+}
+
+.wd-tab-list {
+  list-style-type: none;
+  display: flex;
+  margin-right: 20px; 
+  margin-left: 20px;
+}
+
+.wd-tab-list li {
+  margin-right: 20px; 
+}
+
+.wd-tab-list a {
+  display: inline-block;
+  text-decoration: none;
+  color: gray;
+  position: relative;
+  padding: 8px 16px;
+}
+
+.wd-tab-list a.wd-selected-tab {
+  color: black; 
+  background-color: white; 
+  font-weight: bold;
+  padding-bottom: 20px;
+  border-bottom: 4px solid blue; 
+}
+
+.wd-tuiter-image{
+  margin-top: 20px;
+  position: relative;
+}
+
+.wd-tuiter-image img{
+  width: 100%;
+}
+
+.wd-text-on-img{
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  font-size: 2em;
+  color: black;
+  font-weight: bolder;
+}
+
+.wd-all-news {
+  margin-top: 20px; 
+  margin-left: 20px;
+}
+
+.wd-news-tuit {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.wd-column-left {
+  flex-grow: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.wd-column-right {
+  flex-shrink: 0;
+  margin-right: 20px;
+}
+
+.wd-ellipsis-icon {
+  font-size: 20px;
+  color: darkgray;
+}
+
+.fa-solid.fa-magnifying-glass{
+  position: absolute;
+  top: 13px;
+  left: 17px;
+}
+
+.form-control.rounded-pill {
+  padding-left: 40px;
+  margin-right: 20px;
+}
+
+.fa-solid.fa-gear{
+  position: relative;
+  right: 0px;
+  top: 8px;
+  font-size: 20px;
+}
+
+.wd-bootstrap-search {
+  display: flex;
+  position: relative;
+  width: 100%;
+  top: 20px;
+  margin-bottom: 30px;
+}
+
+.list-group-item{
+  padding-top: 20px;
+}
+
+.wd-logo {
+  float: right;
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+  width: 68px;
+}
+
+.icon-align-left {
+  float: left;
+  margin-right: 10px;
+}
+
+.image-icon{
+  float: left;
+  width: 48px;
+}
+
+.follow-icon{
+  float: right;
+}
+
+.float-left{
+  float: left;
+}
+
