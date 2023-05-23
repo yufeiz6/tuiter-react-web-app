@@ -97,7 +97,7 @@
 
 .wd-news-tuit {
   display: flex;
-
+  justify-content: space-between;
   margin-bottom: 40px;
 }
 
@@ -109,6 +109,7 @@
 }
 
 .wd-column-right {
+  float: right;
   flex-shrink: 0;
   margin-right: 20px;
 }
@@ -141,8 +142,6 @@
   position: relative;
   width: 100%;
 }
-
-
 
 .list-group-item{
   padding-top: 20px;
