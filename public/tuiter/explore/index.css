@@ -97,7 +97,7 @@
 
 .wd-news-tuit {
   display: flex;
-  justify-content: space-between;
+
   margin-bottom: 40px;
 }
 
@@ -142,12 +142,13 @@
   width: 100%;
 }
 
+
+
 .list-group-item{
   padding-top: 20px;
 }
 
 .wd-logo {
-  float: right;
   max-width: 100%;
   height: auto;
   margin-top: 10px;
