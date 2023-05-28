@@ -1,0 +1,21 @@
+[
+  {
+    "_id": 123,
+    "userName": "Robinhood",
+    "handle": "Robinhood",
+    "avatarIcon": "robinhood.png"
+  },
+  {
+    "_id": 234,
+    "userName": "Overwatch",
+    "handle": "OW",
+    "avatarIcon": "ow.png"
+  },
+  {
+    "_id": 345,
+    "userName": "Kindle",
+    "handle": "Kindle",
+    "avatarIcon": "kindle.jpeg"
+  }
+ ]
+ 
