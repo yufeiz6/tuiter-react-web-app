@@ -1,0 +1,15 @@
+.heart-icon.liked {
+  color: red;
+}
+
+.tuit-stats {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.row-below{
+  margin-left: 125px;
+  margin-right: 20px;
+}
+
